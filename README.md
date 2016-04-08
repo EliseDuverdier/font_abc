@@ -3,7 +3,7 @@
 Simple monospaced font.
 
 # samples
-![fontimage](images/Abc-Mono.png)
+![Compact view](images/all_glyphs.png)
 ![In the metrics window](images/metrics.png)
 <!--![All glyphs](images/all_glyphs.png)-->
 
