@@ -1,0 +1,9 @@
+# Change Log
+
+## [1.1] - 2012-04-08
+- Changed encoding to unicode (full).
+- Added arrows, some Latin characters, some mathematical operators, and 2 lozanges.
+- Added this ChangeLog.
+
+## [1.0] - 2012-04-07
+- New: Regular version of Abc (FontForge file, ttf file, samples images)
