@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.2] - 2012-04-12
+- Added medium version.
+
 ## [1.1] - 2012-04-08
 - Changed encoding to unicode (full).
 - Added arrows, some Latin characters, some mathematical operators, and 2 lozanges.
